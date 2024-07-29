@@ -8,7 +8,7 @@ resources:
 variables:
   azureServiceConnection: "azure-connection"
   resourceGroup: "rg-az400-container-webapi"
-  location: "EastUS"
+  location: "eastus"
   subscriptionId: "1f3c249c-a2bc-4d1e-b042-0c6658fe0ba3"
 
 stages:

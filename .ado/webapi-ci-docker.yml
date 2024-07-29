@@ -9,7 +9,7 @@ variables:
   azureServiceConnection: "azure-connection"
   subscriptionId: "1f3c249c-a2bc-4d1e-b042-0c6658fe0ba3"
   resourceGroup: "rg-az400-container-webapi"
-  location: "EastUS"
+  location: "eastus"
 
 stages:
   - stage: Build
